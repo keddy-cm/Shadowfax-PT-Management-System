@@ -1,0 +1,6 @@
+{
+  "name": "Shadowfax NCR Bamnoli DC PT Scan & Payment Management System",
+  "description": "Real-time Part-Time manpower scan rate tracking, hourly and per-day earnings calculator, automated MailBot dispatches, and local data persistence for Shadowfax NCR Bamnoli DC (Site: NBP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
